@@ -11,6 +11,8 @@
 
 ## Связь со мной:
 * <a href="https://vk.com/khaera"><img src="https://pic.moscow.ovh/images/2020/04/14/63824b98b9e60b686ff86b336abf450f.png" alt="VK" width="20" height="20"/></a>
+* <a href="https://t.me/kha3ra"><img src="https://avatars.mds.yandex.net/get-zen_doc/2359038/pub_60129a10f26bf62c167552bc_60129bd16e30ac5150b690b2/scale_1200" alt="Telegram" width="20" height="20"/></a>
+* Email: sf13371@yandex.ru
 
 <!--
 **Khaera/Khaera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
