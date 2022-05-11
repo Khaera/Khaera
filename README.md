@@ -11,7 +11,7 @@
 
 ## Связь со мной:
 * <a href="https://vk.com/khaera"><img src="https://pic.moscow.ovh/images/2020/04/14/63824b98b9e60b686ff86b336abf450f.png" alt="VK" width="20" height="20"/></a>
-* <a href="https://t.me/kha3ra"><img src="https://avatars.mds.yandex.net/get-zen_doc/2359038/pub_60129a10f26bf62c167552bc_60129bd16e30ac5150b690b2/scale_1200" alt="Telegram" width="20" height="20"/></a>
+* <a href="https://t.me/kha3ra"><img src="https://www.redwhite.ru/upload/iblock/229/qdq6pl4v3arkhirauqjm01869b4hj52r/tg.png" alt="Telegram" width="20" height="20"/></a>
 * Email: sf13371@yandex.ru
 
 <!--
