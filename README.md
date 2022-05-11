@@ -7,7 +7,7 @@
 * помогать и получать помощь от коллег.
 
 ## Мой стек технологий:
-[html](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+![html](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
 
 <!--
 **Khaera/Khaera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
